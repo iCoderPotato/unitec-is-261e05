@@ -18,9 +18,6 @@ public class IntegrationTestApplication
     [InlineData(15, 30, 15, 337.5)]
     [InlineData(20, 40, 20, 600)]
     [InlineData(21, 42, 21, 661.5)]
-
-    // Added InlineData entries to reach a total of 80 test cases.
-    // Format: (BaseMenor, BaseMayor, altura, area) where area = (BaseMenor + BaseMayor) * altura / 2
     [InlineData(1, 2, 1, 1.5)]
     [InlineData(2, 4, 2, 6)]
     [InlineData(3, 6, 3, 13.5)]
