@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿using Xunit;
+=======
+using Xunit;
+>>>>>>> 21527372fd43c8d1295adc15ceb3235631813e27
 
 using System.Net;
 using System.Net.Http;
